@@ -10,6 +10,10 @@
  <!-- About me section -->
 
  ----
+ 
+ <!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="400" height="320" />
+
 ✨ I’m an engineer student, with a passion for software engineering and coding! Welcome to my GitHub!
 
 Despite not being from the field, currently I’m immersing myself in the world of software development, as I have two years experience as an intern in the field. It’s been an exciting journey learning about microservices, database management, and API development.
@@ -22,6 +26,7 @@ Despite not being from the field, currently I’m immersing myself in the world 
 
 <!-- Conecct section -->
 
+----
 <h2>Connect with me </h3>
     <p>
         <a href="https://www.linkedin.com/in/giovana-faria/"><img src="https://img.shields.io/badge/-Giovana%20Faria%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp; https://www.linkedin.com/in/giovana-faria/" alt="LinkedIn Badge"></a>
