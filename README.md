@@ -20,7 +20,7 @@ Despite not being from the field, currently I’m immersing myself in the world 
 
 - 📫 How to reach me: giovanafaria@hotmail.com.br
 
-- ⚡ Fun fact: I am working on an API for my final graduation project that will receive dates and polygons and return the amount of water that area has lost or earn in the years. 
+- ⚡ Fun fact: I am working on an evacuation simulation in favelas during landslides/floodings events for my final project in my bachelor. 
 
 <!-- About section: END -->
 
